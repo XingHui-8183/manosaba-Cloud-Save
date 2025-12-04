@@ -1,0 +1,10 @@
+{
+  "github_repo": "manosaba-manosaba",
+  "github_token": "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",
+  "github_owner": "XingHui-8183",
+  "auto_action": "pull",
+  "save_dir": "C:\\Users\\pan13\\AppData\\LocalLow\\Re,AER\\manosaba\\Saves_v1",
+  "backup_interval": 5,
+  "notifications_enabled": true,
+  "debug_mode": true
+}
